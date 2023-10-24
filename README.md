@@ -2,7 +2,7 @@
 Repository ini berisi tugas-tugas dan proyek-proyek yang saya selesaikan dalam mata kuliah Pengolahan Citra dan Visi Komputer. Mata kuliah ini membahas berbagai konsep dan teknik dalam pengolahan citra, pengenalan pola, dan visi komputer.
 
 ## Daftar isi
-- week 1
+- [Week 1]([https://www.contoh.com](https://github.com/trjgdyan/PCVK_Genap_2021/blob/main/minggu1_trijagad.ipynb))
 - week 2
 - week 3
 - week 4
